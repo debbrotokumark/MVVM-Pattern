@@ -25,7 +25,7 @@ Easy to extend for other modules
 │   ├── api<br>
 │   │   ├── ApiService.java<br>
 │   │   └── RetrofitClient.java<br>
-│   ├── modelbr>
+│   ├── model<br>
 │   │   └── TransactionModel.java<br>
 │   └── repository<br>
 │       └── TransactionRepository.java<br>
