@@ -1,0 +1,25 @@
+dependencies {
+
+    // Retrofit
+    implementation 'com.squareup.retrofit2:retrofit:2.11.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.11.0'
+
+    // OkHttp + Logging Interceptor
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.12.0'
+
+    // Lifecycle ViewModel + LiveData (MVVM)
+    implementation 'androidx.lifecycle:lifecycle-viewmodel:2.8.4'
+    implementation 'androidx.lifecycle:lifecycle-livedata:2.8.4'
+    implementation 'androidx.lifecycle:lifecycle-runtime:2.8.4'
+
+    // RecyclerView
+    implementation 'androidx.recyclerview:recyclerview:1.3.2'
+
+    // Material Design (UI Components)
+    implementation 'com.google.android.material:material:1.12.0'
+
+    // Gson (If needed explicitly)
+    implementation 'com.google.code.gson:gson:2.11.0'
+
+    // Coroutines not needed (Java), ignore if not Kotlin
+}
