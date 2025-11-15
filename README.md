@@ -22,21 +22,21 @@ Example API: Fetch transactions from PHP backend
 Easy to extend for other modules
 
 📂 Project Structure
-com.yourcompany.projectname
-│
-├── data
-│   ├── api
-│   │   ├── ApiService.java
-│   │   └── RetrofitClient.java
-│   ├── model
-│   │   └── TransactionModel.java
-│   └── repository
-│       └── TransactionRepository.java
-│
-├── ui
-│   └── transaction
-│       ├── TransactionViewModel.java
-│       └── TransactionActivity.java   (or Fragment)
-│
-└── utils
-    └── Resource.java
+com.yourcompany.projectname<br>
+│<br>
+├── databr>
+│   ├── api<br>
+│   │   ├── ApiService.java<br>
+│   │   └── RetrofitClient.java<br>
+│   ├── modelbr>
+│   │   └── TransactionModel.java<br>
+│   └── repository<br>
+│       └── TransactionRepository.java<br>
+│<br>
+├── ui<br>
+│   └── transaction<br>
+│       ├── TransactionViewModel.java<br>
+│       └── TransactionActivity.java   (or Fragment)<br>
+│<br>
+└── utils<br>
+    └── Resource.java<br>
