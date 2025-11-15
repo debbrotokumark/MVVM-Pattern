@@ -21,10 +21,7 @@ Example API: Fetch transactions from PHP backend
 
 Easy to extend for other modules
 
-📂 Project Structure
-com.yourcompany.projectname<br>
-│<br>
-├── databr>
+├── data<br>
 │   ├── api<br>
 │   │   ├── ApiService.java<br>
 │   │   └── RetrofitClient.java<br>
